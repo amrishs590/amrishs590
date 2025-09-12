@@ -34,7 +34,6 @@
 ---
 
 ## 🚀 Projects
-<div align="center">
 
 ### 📌 Problem Solving Source  
 A platform for learning DSA step by step with questions, solutions, and a code editor.  
@@ -66,7 +65,6 @@ Documenting my learning journey with React.js & JavaScript.
 - 🛒 Product Cart  
 🔗 [View Repository](#)
 
-</div>
 
 # 🎯 Let’s Keep Growing Together 🚀  
 > *“Code. Learn. Build. Repeat.”*
