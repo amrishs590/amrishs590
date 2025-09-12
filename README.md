@@ -71,6 +71,7 @@ Documenting my learning journey with React.js & JavaScript.
 - 🛒 Product Cart  
 🔗 [View Repository](#)
 
+---
 
 ## 🌐 Let's Connect  
 
@@ -78,7 +79,9 @@ Documenting my learning journey with React.js & JavaScript.
 - 🖥️ [Codolio](https://codolio.com/profile/Amrish)  
 - 🧩 [LeetCode](https://leetcode.com/u/amrishs590/)  
 - 🍴 [CodeChef](https://www.codechef.com/users/amrishs)  
-- 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/amrishkq5e/)  
+- 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/amrishkq5e/)
+
+---
 
 
 # 🎯 Let’s Keep Growing Together 🚀  
