@@ -49,7 +49,7 @@ A platform where you can post lyrics, view others’ posts, like and share them 
 
 ### 💬 Supabase Chat App  
 Real-time chat app with authentication and user profiles.  
-🔗 [View Repository](https://github.com/amrishs590/chat-app) | 🌐 [Live Demo](https://talktify.vercel.app)
+🔗 [View Repository](https://github.com/amrishs590/chat-app) | 🌐 [Live Demo](https://talkifyhub.vercel.app/)
 
 ---
 
