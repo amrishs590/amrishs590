@@ -37,19 +37,25 @@
 
 ### 📌 Problem Solving Source  
 A platform for learning DSA step by step with questions, solutions, and a code editor.  
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/amrishs590/Project-ProblemSolving) | 🌐 [Live Demo](https://dsapathway.vercel.app)
 
 ---
 
-### 📌 Supabase Chat App  
+### 🎵 Lyric Post Manager  
+A platform where you can post lyrics, view others’ posts, like and share them (community).  
+🔗 [View Repository](https://github.com/amrishs590/Lryrics-Post-Manager)
+
+---
+
+### 💬 Supabase Chat App  
 Real-time chat app with authentication and user profiles.  
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/amrishs590/chat-app) | 🌐 [Live Demo](https://talktify.vercel.app)
 
 ---
 
-### 📌 Instagram Console Clone  
+### 📸 Instagram Console Clone  
 A console-style simulation of Instagram for fun & learning.  
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/amrishs590/Instagram-LLD)
 
 ---
 
@@ -64,6 +70,15 @@ Documenting my learning journey with React.js & JavaScript.
 - 🎨 Theme Switcher  
 - 🛒 Product Cart  
 🔗 [View Repository](#)
+
+
+## 🌐 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/amrish-s-7a8758310/)  
+- 🖥️ [Codolio](https://codolio.com/profile/Amrish)  
+- 🧩 [LeetCode](https://leetcode.com/u/amrishs590/)  
+- 🍴 [CodeChef](https://www.codechef.com/users/amrishs)  
+- 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/amrishkq5e/)  
 
 
 # 🎯 Let’s Keep Growing Together 🚀  
