@@ -1,6 +1,5 @@
 # 👋 Hey, I’m Amrish!  
 🎓 4th Year **CSE Student @ KIT (2026)**  
-💼 Recently placed with a **52 LPA package**  
 🚀 Passionate about **React, Supabase, System Design & DSA**  
 ✨ Turning complex problems into structured, real-world apps  
 
