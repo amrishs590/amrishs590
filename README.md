@@ -46,6 +46,11 @@ A platform where you can post lyrics, view others’ posts, like and share them 
 🔗 [View Repository](https://github.com/amrishs590/Lryrics-Post-Manager)
 
 ---
+### 🐶Pet Adoption  
+A platform where you can adopt adorable pets and bring happiness to your life.
+🔗 [View Repository](https://github.com/amrishs590/Pet-Adoption)  | 🌐 [Live Demo](pet-adoption-fam.vercel.app)
+
+---
 
 ### 💬 Supabase Chat App  
 Real-time chat app with authentication and user profiles.  
