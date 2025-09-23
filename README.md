@@ -66,7 +66,8 @@ A console-style simulation of Instagram for fun & learning.
 
 ### 📌 React & JavaScript Learning Repo  
 Documenting my learning journey with React.js & JavaScript.  
-🔗 [View Repository](#)
+🔗 [View Repository - React](https://github.com/amrishs590/React)
+🔗 [View Repository - React](https://github.com/amrishs590/JavaScript)
 
 ---
 
@@ -74,7 +75,6 @@ Documenting my learning journey with React.js & JavaScript.
 - 📝 To-Do List Manager  
 - 🎨 Theme Switcher  
 - 🛒 Product Cart  
-🔗 [View Repository](#)
 
 ---
 
