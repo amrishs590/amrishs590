@@ -6,10 +6,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently building:
   - **Problem Solving Source** – Structured DSA platform with interactive coding
   - **Lyric Manager** – A web application for managing, organizing, and exploring song lyrics with admin & user dashboards.  
   - **Supabase Chat App** – Real-time chat with auth & profiles
+  - **Pet Adoption** – A web application for adopting pets [FrontEnd]
   - **Instagram Console Clone** – Fun project simulating Instagram console UI 
   - **Mini React Apps** – To-Do Manager, Theme Switcher & Product Cart   
   - **React & JavaScript Learning Repo** – My journey learning and mastering frontend  
