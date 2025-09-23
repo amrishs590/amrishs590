@@ -6,6 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
+  **Projects**
   - **Problem Solving Source** – Structured DSA platform with interactive coding
   - **Lyric Manager** – A web application for managing, organizing, and exploring song lyrics with admin & user dashboards.  
   - **Supabase Chat App** – Real-time chat with auth & profiles
@@ -67,6 +68,7 @@ A console-style simulation of Instagram for fun & learning.
 ### 📌 React & JavaScript Learning Repo  
 Documenting my learning journey with React.js & JavaScript.  
 🔗 [View Repository - React](https://github.com/amrishs590/React)
+
 🔗 [View Repository - React](https://github.com/amrishs590/JavaScript)
 
 ---
