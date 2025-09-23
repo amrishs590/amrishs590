@@ -69,7 +69,7 @@ A console-style simulation of Instagram for fun & learning.
 Documenting my learning journey with React.js & JavaScript.  
 🔗 [View Repository - React](https://github.com/amrishs590/React)
 
-🔗 [View Repository - React](https://github.com/amrishs590/JavaScript)
+🔗 [View Repository - JavaScript](https://github.com/amrishs590/JavaScript)
 
 ---
 
