@@ -43,7 +43,7 @@ A platform for learning DSA step by step with questions, solutions, and a code e
 
 ### 🎵 Lyric Post Manager  
 A platform where you can post lyrics, view others’ posts, like and share them (community).  
-🔗 [View Repository](https://github.com/amrishs590/Lryrics-Post-Manager)
+🔗 [View Repository](https://github.com/amrishs590/LyricManager-Blog)
 
 ---
 ### 🐶Pet Adoption  
