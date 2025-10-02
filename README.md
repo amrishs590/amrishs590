@@ -21,7 +21,8 @@
 ---
 
 ## 🏆 Achievements
-- ✔️ Cracked placements with **52 LPA offer**  
+- ✔️ Achieved Campus Placement at **HashAI with a 52 LPA package**
+- ✔️ Achieved Campus Placement at **Zoho as a Software Developer Intern**
 - ✔️ Solved **1500+ DSA problems** across **LeetCode, CodeChef & GeeksforGeeks**  
 - ✔️ **Competitive Programming**:  
   - ⭐ 3-Star Coder on **CodeChef Div 2**  
