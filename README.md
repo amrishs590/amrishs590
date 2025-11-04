@@ -1,14 +1,15 @@
 # 👋 Hey, I’m Amrish!  
 🎓 4th Year **CSE Student @ KIT (2026)**  
-🚀 Passionate about **React, Supabase, System Design & DSA**  
+🚀 Passionate about **DSA, JSP, Servlet, React, Supabase & System Design**  
 ✨ Turning complex problems into structured, real-world apps  
 
 ---
 
 ## 👨‍💻 About Me
   **Projects**
+   - **Lyric Manager** – A web application for managing, organizing, and exploring song lyrics with admin & user dashboards.
+   - **EML Reader** – Secure web tool for parsing, viewing, and sanitizing .eml email files with HTML content protection and structured display.  
    - **Problem Solving Source** – Structured DSA platform with interactive coding
-   - **Lyric Manager** – A web application for managing, organizing, and exploring song lyrics with admin & user dashboards.  
    - **Supabase Chat App** – Real-time chat with auth & profiles
    - **Pet Adoption** – A web application for adopting pets [FrontEnd]
    - **Instagram Console Clone** – Fun project simulating Instagram console UI 
@@ -27,8 +28,8 @@
 - ✔️ **Competitive Programming**:  
   - ⭐ 3-Star Coder on **CodeChef Div 2**  
   - 📈 Highest Rating: **1627**  
-  - 🌍 Highest Global Rank: **106**  
-- ✔️ Built multiple **full-stack projects** with React + Supabase  
+  - 🌍 Highest Global Rank: **106**
+- ✔️ Built multiple **full-stack projects** with Java, JSP, Servlets, MySQL & React + Supabase  
 - ✔️ Designed a **DSA learning path** with structured questions & code editor  
 - ✔️ Explored **System Design topics**: Payment Gateways, Microservices, WebSockets, Sharding  
 
@@ -45,6 +46,11 @@ A platform for learning DSA step by step with questions, solutions, and a code e
 ### 🎵 Lyric Post Manager  
 A platform where you can post lyrics, view others’ posts, like and share them (community).  
 🔗 [View Repository](https://github.com/amrishs590/LyricManager-Blog)
+
+---
+### 📧 EML Reader
+A secure web application to upload, parse, and view .eml email files with sanitized HTML content.
+🔗 [View Repository](https://github.com/amrishs590/Eml-Reader)
 
 ---
 ### 🐶Pet Adoption  
