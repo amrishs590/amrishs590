@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Amrish!  
 🎓 4th Year **CSE Student @ KIT (2026)**  
-💼 Project Trainee Intern **@ Zoho**
+💼 Project Trainee Intern **@ Zoho**               
 🚀 Passionate about **DSA, JSP, Servlet, React, Supabase & System Design**  
 ✨ Turning complex problems into structured, real-world apps  
 
