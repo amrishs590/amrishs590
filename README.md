@@ -39,12 +39,14 @@
 
 ### 📌 Problem Solving Source  
 A platform for learning DSA step by step with questions, solutions, and a code editor.  
+
 🔗 [View Repository](https://github.com/amrishs590/Project-ProblemSolving) | 🌐 [Live Demo](https://dsapathway.vercel.app)
 
 ---
 
 ### 🎵 Lyric Post Manager  
 A platform where you can post lyrics, view others’ posts, like and share them (community).  
+
 🔗 [View Repository](https://github.com/amrishs590/LyricManager-Blog)
 
 ---
@@ -63,12 +65,14 @@ A platform where you can adopt adorable pets and bring happiness to your life.
 
 ### 💬 Supabase Chat App  
 Real-time chat app with authentication and user profiles.  
+
 🔗 [View Repository](https://github.com/amrishs590/chat-app) | 🌐 [Live Demo](https://talkifyhub.vercel.app/)
 
 ---
 
 ### 📸 Instagram Console Clone  
 A console-style simulation of Instagram for fun & learning.  
+
 🔗 [View Repository](https://github.com/amrishs590/Instagram-LLD)
 
 ---
