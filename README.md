@@ -1,9 +1,8 @@
 # 👋 Hey, I’m Amrish!  
-💼 Member Technical Staff **@ Zoho**               
-🎓 B.E. Computer Science and Engineering Graduate | KIT (Class of 2026) 
-
-🚀 Passionate about **DSA, JSP, Servlet, React, Supabase & System Design**  
-✨ Turning complex problems into structured, real-world apps  
+💼 Member Technical Staff **@ Zoho**
+🎓 B.E. Computer Science and Engineering Graduate | KIT (2026)
+🚀 Passionate about **DSA, JSP, Servlet, React, Supabase & System Design**
+✨ Turning complex problems into structured, real-world apps
 
 ---
 
